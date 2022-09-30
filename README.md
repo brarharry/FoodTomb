@@ -8,3 +8,5 @@
 ###  Uyen (Front End Lead) 
 ###  Kevin (Github Master)
 ###  Michael (Scrum Master)
+
+Link to Project Slides: https://drive.google.com/drive/folders/1L35F6e89ANdQLRaRxkeBqcIZshGu5_rh?usp=sharing
