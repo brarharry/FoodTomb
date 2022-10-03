@@ -1,0 +1,15 @@
+.box {
+  height: 80vh;
+  margin: 1rem;
+  background: linear-gradient(rgba(250, 0, 0, 0.5), transparent);
+  background-color: orange; /*this your primary color*/
+  padding: 6rem;
+}
+
+.name {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-family: "Brush Script MT", Brush Script Std, cursive;
+  margin-top: 4%;
+  font-size: 290%;
+}

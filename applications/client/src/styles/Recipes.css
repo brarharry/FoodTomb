@@ -1,0 +1,74 @@
+.ingredients
+{
+    text-align: center;
+    align-items: center;
+    float: inline-end;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h4
+{
+    
+    margin-left: 2cm;
+    color: #3d7958;
+    font-family: 'Dot Matrix', Courier, monospace;
+    text-transform: uppercase;
+}
+
+.label2
+{
+    
+    background-image: url("/public/recipe.gif");
+    background-repeat: no-repeat;
+    background-size: 1.75cm;
+    height: 2cm;
+    width: 4.5cm;
+    background-position-x: 1cm;
+    
+    text-align:right;
+    padding-top: 0.5cm;
+  
+}
+
+label
+{
+    margin-top: 0.5cm;
+}
+
+
+
+.enter-button
+{
+    font-family: 'Dot Matrix', Courier, monospace;
+    text-transform: uppercase;
+  font-size: medium;
+  background-color:#f5f3ed;
+  text-decoration:none;
+  padding: 5px;
+  border-radius: 7px;
+  margin-top: 0.75cm;
+  width: 1.5cm;
+  text-align: center;
+  border-width: 1px;
+  height:0.85cm;
+  color:#3d7958;
+  
+ 
+}
+
+
+
+.recipe
+{
+   margin-left: 7cm;
+}
+
+.cookinglogo
+{
+    background-image: url("/public/cookinglogo.gif");
+    background-repeat: no-repeat;
+    background-size: 2cm;
+    width: 2cm;
+    height: 2cm;
+}

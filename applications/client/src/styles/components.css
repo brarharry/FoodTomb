@@ -1,0 +1,94 @@
+.navbar2{
+
+  font-family: 'Dot Matrix', Courier, monospace;
+   text-transform: uppercase;
+  background-image:  url("/public/logo.png"), url("/public/welcome.gif");
+  background-color: #d1e7dd;
+  background-position: 1cm, 0cm;
+  background-repeat:no-repeat;
+  background-size: contain, cover;
+  align-content: flex-end;
+  height: 3cm;
+  padding-top: 0.5px;
+}
+
+
+
+.navbar1
+{
+  align-content: flex-end;
+  height: 3cm;
+  padding-top: 0.5px;
+  background-color: transparent;
+  font-family: 'Dot Matrix', Courier, monospace;
+   text-transform: uppercase;
+}
+
+
+
+
+
+
+body {
+  background-color: whitesmoke;
+}
+
+.indIntro {
+  text-align: center;
+  margin-top: 4%;
+}
+
+.button {
+  font-family: 'Dot Matrix', Courier, monospace;
+   text-transform: uppercase;
+  font-size: medium;
+  background-color:#f5f3ed;
+  text-decoration:none;
+  color: black;
+  padding: 5px;
+  border-radius: 7px;
+  margin-top: 0.75cm;
+  width: 4cm;
+  text-align: center;
+  border-width: 3px;
+  border-color: rgb(8, 8, 8);
+  
+}
+
+.button:hover
+{
+  color: black;
+}
+
+.photo {
+  height: 200px;
+  width: 300px;
+  margin: auto;
+  display: block;
+}
+
+.drop-down {
+  margin: 20px;
+}
+.drop-down-label {
+  margin-left: 20px;
+}
+
+.ingredients-padding{
+  padding-left: 20px;
+}
+
+.btn-xs
+{
+    padding: 1px 5px !important;
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+    border-radius: 3px !important;
+
+    margin: 0px;
+}
+
+.btn
+{
+  border: darkslategray;
+}

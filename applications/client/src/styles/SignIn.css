@@ -1,0 +1,88 @@
+#sign-in-form-container {
+  padding-top: 3%;
+}
+
+.sign-in-form-container
+{
+  margin-top: 3cm;
+  
+}
+
+.signin-form
+{
+  
+  background-color:transparent ;
+  text-align: center;
+  width: 10cm;
+  height: 6cm;
+  align-items: center;
+  margin-left: 14cm;
+  padding: 1cm;
+  font-family: 'Dot Matrix', Courier, monospace;
+  border-radius: 7px;
+}
+
+.home-container
+{
+  background-image: url("/public/welcome.gif");
+  background-size:cover;
+  background-repeat: no-repeat;
+  padding-bottom: 6cm;
+  
+}
+
+#signin-form {
+  background-color: whitesmoke;
+  padding-top: 2%;
+  padding-bottom: 3%;
+  align-self: flex-start;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  width: 50%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#signin-form-field::placeholder {
+  color: #636363;
+}
+
+#signin-form-field {
+  background-color: rgb(217, 213, 213);
+  border: none;
+  border-radius: 3px;
+  padding: 0px 0px 5px 5px;
+  margin-bottom: 2%;
+}
+
+#signin-form-submit {
+  background-color: #047e3f;
+  color: #f5f5f5;
+  cursor: pointer;
+  border: #047e3f;
+  margin-top: 15%;
+}
+
+.signin-form-field
+{
+  background-color: #f5f5f5;
+  border: none;
+  height: 0.75cm;
+  padding: 8px;
+}
+
+.signin-form-submit
+{
+  display: block;
+  margin-top: 0.5cm;
+  margin-left: 3cm;
+  text-decoration:none;
+  color: black;
+  padding: 5px;
+  border-radius: 7px;
+  border-width: 1px;
+  background-color:#d8d3c5;
+  border-color: #047e3f;
+  font-family: 'Dot Matrix', Courier, monospace;
+}

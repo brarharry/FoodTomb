@@ -1,0 +1,250 @@
+.foodlist
+{
+    margin-left: 7cm;
+    margin-top: 1cm;
+    width: 28cm;
+    height: 20cm;
+
+    
+
+    
+}
+
+.input-group
+{
+   width: 3cm;
+   background-image: url("/public/cider.gif");
+   background-size: 2cm;
+   background-repeat: no-repeat;
+   background-position-x: 10cm;
+   background-position-y: 0.35cm;
+}
+
+
+
+.search-box
+{
+   align-items: center;
+   width: 7cm;
+   height: 1.20cm;
+   border-radius: 8px;
+   border-color: #2a4938;
+   border-width: 1px;
+   margin-left: 1cm;
+   margin-top: 1cm;
+   font-family: 'Dot Matrix', Courier, monospace;
+}
+.search-button
+{
+   font-family: 'Dot Matrix', Courier, monospace;
+   text-transform: uppercase;
+   width: 1.75cm;
+   height: 1.20cm;
+   background-color:transparent;
+   border-end-end-radius: 8px;
+   border-top-right-radius: 8px;
+   border-color: #2e4e3c;
+   padding: 2px;
+   border-width: 1px;
+
+
+   color:#417a5b;
+   font-family: 'Dot Matrix', Courier, monospace;
+   text-transform: uppercase;
+   margin-top: 1cm;
+}
+
+
+
+.list-group-item
+{
+   font-family: 'Dot Matrix', Courier, monospace;
+   border-radius: 8px;
+   margin-top: 0.5cm;
+   border-color: #43805e;
+   height: 0.5;
+   width: 10cm;
+   color: #365846;
+   text-align: center;
+   
+}
+
+.tag-desc
+{
+   background-repeat: no-repeat;
+   background-position-x: 0.5cm;
+   background-size: cover;
+   height: 10cm;
+   background-size: 9cm;
+   
+   
+}
+
+.food-desc
+{
+   height: 10cm;
+   
+   
+   
+}
+
+.item-name
+{
+   padding-top: 4cm;
+   padding-left: 2cm;
+   font-family: 'Dot Matrix', Courier, monospace;
+   text-transform: uppercase;
+   font-size: 95%;
+}
+
+.item-quantity
+{
+   padding-left: 2cm;
+   font-family: 'Dot Matrix', Courier, monospace;
+   text-transform: uppercase;
+   font-size: 95%;
+}
+
+.item-status
+{
+   padding-left: 2cm;
+   font-family: 'Dot Matrix', Courier, monospace;
+   text-transform: uppercase;
+   font-size: 95%;
+}
+
+.btn
+{
+   font-family: 'Dot Matrix', Courier, monospace;
+   text-transform: uppercase;
+   border-radius: 7px;
+}
+
+.edit-button
+{
+   padding-left: 2cm;
+   padding-top: 0.5cm; 
+
+}
+
+.add-remove
+{
+   padding-left: 1cm;
+}
+
+
+
+.inventory
+{
+   background-size:auto;
+   background-position-x: 680px;
+   background-position-y: 120px;
+   background-repeat:no-repeat;
+   background-blend-mode: color;
+   height: 800px;
+ 
+}
+.drop-down-label
+{
+   align-items: center;
+   font-family: 'Dot Matrix', Courier, monospace;
+   align-self:center;
+ 
+ 
+ 
+ 
+ 
+}
+ 
+.drop-down-label
+{
+   align-items: center;
+   margin: 0 auto;
+   color: #396d50;
+   width:800px;
+   padding: 25px;
+   cursor: pointer;
+ 
+}
+ 
+.drop-down
+{
+   height: 40px;
+   background: #f5f8f0;
+   text-align: center;
+   border-radius: 5px;
+   color: #23634a88;
+   text-transform: uppercase;
+   border-color: #51b17c;
+  
+ }
+ 
+ 
+.drop-down::-ms-ticks-after
+{
+   height: 40px;
+   background: #f5f8f0;
+   text-align: center;
+   border-radius: 5px;
+   color: #4a806b88;
+   font-weight: bold;
+   text-transform: uppercase;
+   border: none;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+input
+{
+ 
+   border-color: #3f7757;
+   background-color: transparent;
+   border-radius: 5px;
+   box-shadow: 10px rgb(194, 212, 199);
+   font-family: 'Dot Matrix', Courier, monospace;
+ 
+  
+}
+
+.addfood
+{
+   height: 10cm;
+   width: 9cm;
+   margin-left: 14cm;
+   margin-top: 1cm;
+   font-family: 'Dot Matrix', Courier, monospace;
+   
+   font-weight: bold;
+   
+}
+
+.pic
+{
+   height: 4.5cm;
+   background-image: url("/public/lemon.gif");
+   background-repeat: no-repeat;
+   background-size: 4cm;
+   background-position-x: 2.5cm;
+   
+}
+
+.edit-form
+{
+   background-image: url("/public/beet.gif");
+   background-repeat: no-repeat;
+   background-size: 4cm;
+   background-position-x: -0.5cm;
+   background-position-y: 1cm;
+   height: 10cm;
+   width: 9cm;
+   margin-left: 14cm;
+   margin-top: 1cm;
+   font-family: 'Dot Matrix', Courier, monospace;
+   font-weight: bold;
+   padding-top: 4cm;
+}
+

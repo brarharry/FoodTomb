@@ -1,0 +1,12 @@
+#qr_reader {
+  height: 700;
+  width: 1000;
+  display: "flex";
+  justify-content: center;
+}
+
+#camStyle {
+  display: flex;
+  justify-content: center;
+  margin-top: 50;
+}
